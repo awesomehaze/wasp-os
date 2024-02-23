@@ -23,9 +23,6 @@ file = 'apps/calculator.py'
 file = 'apps/disa_b_l_e.py'
 
 [[app]]
-file = 'apps/disa_b_l_e.py'
-
-[[app]]
 file = 'apps/flashlight.py'
 auto_load = true
 
