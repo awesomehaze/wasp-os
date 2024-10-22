@@ -10,8 +10,8 @@ quick_ring = true
 file = 'apps/alarm.py'
 quick_ring = true
 
-[[app]]
-file = 'apps/stopwatch.py'
+# [[app]]
+# file = 'apps/stopwatch.py'
 
 [[app]]
 file = 'apps/heart.py'
